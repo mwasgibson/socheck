@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Trust Network Access Orchestrator",
+  "description": "Production-grade 802.1X/RADIUS access control with real-time Isolation Forest threat detection (99%+ accuracy), automated multi-vendor Netmiko quarantine, and enterprise disaster recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
