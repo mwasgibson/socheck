@@ -1,6 +1,6 @@
 {
-  "name": "Zero-Trust Network Access Orchestrator",
-  "description": "Production-grade 802.1X/RADIUS access control with real-time Isolation Forest threat detection (99%+ accuracy), automated multi-vendor Netmiko quarantine, and enterprise disaster recovery.",
+  "name": "Socheck",
+  "description": "Zero-Trust SOC orchestrator: 802.1X/RADIUS access control, Isolation Forest threat detection, multi-vendor Netmiko quarantine, audit logs, and disaster recovery drills.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
