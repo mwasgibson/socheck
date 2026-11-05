@@ -1,5 +1,5 @@
 /**
- * Zero-Trust Network Access (ZTNA) Enterprise Orchestrator
+ * Socheck — Zero-Trust SOC Orchestrator
  * Main Application Component
  */
 
