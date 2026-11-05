@@ -43,7 +43,7 @@ export const TopBar: React.FC<TopBarProps> = ({
           <ShieldCheck className="w-5 h-5" />
         </div>
         <span className="text-base font-semibold tracking-tight text-slate-100 whitespace-nowrap">
-          ZTNA Orchestrator
+          Socheck
         </span>
       </div>
 
